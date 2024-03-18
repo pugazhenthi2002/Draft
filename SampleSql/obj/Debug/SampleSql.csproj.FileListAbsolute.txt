@@ -1,0 +1,16 @@
+C:\Users\Pugaizhenthi\source\repos\SampleSql\SampleSql\bin\Debug\SampleSql.exe.config
+C:\Users\Pugaizhenthi\source\repos\SampleSql\SampleSql\bin\Debug\SampleSql.exe
+C:\Users\Pugaizhenthi\source\repos\SampleSql\SampleSql\bin\Debug\SampleSql.pdb
+C:\Users\Pugaizhenthi\source\repos\SampleSql\SampleSql\bin\Debug\DatabaseLibrary.dll
+C:\Users\Pugaizhenthi\source\repos\SampleSql\SampleSql\bin\Debug\GoLibrary.dll
+C:\Users\Pugaizhenthi\source\repos\SampleSql\SampleSql\bin\Debug\MySql.Data.dll
+C:\Users\Pugaizhenthi\source\repos\SampleSql\SampleSql\bin\Debug\MySqlBackup.dll
+C:\Users\Pugaizhenthi\source\repos\SampleSql\SampleSql\bin\Debug\MySQLDatabase.dll
+C:\Users\Pugaizhenthi\source\repos\SampleSql\SampleSql\obj\Debug\SampleSql.exe.config
+C:\Users\Pugaizhenthi\source\repos\SampleSql\SampleSql\obj\Debug\SampleSql.Properties.Resources.resources
+C:\Users\Pugaizhenthi\source\repos\SampleSql\SampleSql\obj\Debug\SampleSql.csproj.GenerateResource.cache
+C:\Users\Pugaizhenthi\source\repos\SampleSql\SampleSql\obj\Debug\SampleSql.csproj.CoreCompileInputs.cache
+C:\Users\Pugaizhenthi\source\repos\SampleSql\SampleSql\obj\Debug\SampleSql.csproj.CopyComplete
+C:\Users\Pugaizhenthi\source\repos\SampleSql\SampleSql\obj\Debug\SampleSql.exe
+C:\Users\Pugaizhenthi\source\repos\SampleSql\SampleSql\obj\Debug\SampleSql.pdb
+C:\Users\Pugaizhenthi\source\repos\SampleSql\SampleSql\obj\Debug\SampleSql.csprojAssemblyReference.cache
